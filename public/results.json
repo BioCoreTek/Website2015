@@ -1,0 +1,314 @@
+{
+"fields": [
+	{
+		"name": "protocol",
+		"display": "Find Protocol - Goal",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "monitor",
+		"display": "Open Monitor",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "keyboard",
+		"display": "Plug Keyboard",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "projectname",
+		"display": "Determine Project Name",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "projectpassword",
+		"display": "Determine Project Password",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "projectunlock",
+		"display": "Login to Project Page",
+		"multiplier": 10,
+		"max": 10,
+		"bonus": false
+	},
+	{
+		"name": "level5password",
+		"display": "Assemble Level 5 Daily Access Code",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "level5keybox",
+		"display": "Unlock Level 5 Keybox",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "level5unlock",
+		"display": "Unlock Level 5 Door",
+		"multiplier": 10,
+		"max": 10,
+		"bonus": false
+	},
+	{
+		"name": "level5doorstop",
+		"display": "Use Level 5 Doorstop",
+		"multiplier": 5,
+		"max": 5,
+		"bonus": false
+	},
+	{
+		"name": "antidoteunlock",
+		"display": "Unlock Antidote",
+		"multiplier": 25,
+		"max": 25,
+		"bonus": false
+	},
+	{
+		"name": "antidotedoctor",
+		"display": "Give Antidote to Live Doctor",
+		"multiplier": 10,
+		"max": 10,
+		"bonus": false
+	},
+	{
+		"name": "exituninfectedcount",
+		"display": "Employees Exited Before Timeout",
+		"multiplier": 5,
+		"max": 15,
+		"bonus": false
+	},
+	{
+		"name": "membersinfected",
+		"display": "Team Members Infected",
+		"multiplier": -5,
+		"max": -15,
+		"bonus": false
+	},
+	{
+		"name": "deathcount",
+		"display": "Deaths",
+		"multiplier": -1,
+		"max": -7,
+		"bonus": false
+	},
+	{
+		"name": "minutesleftcount",
+		"display": "Full Minutes Left to Timeout",
+		"multiplier": 0.5,
+		"max": 15,
+		"bonus": true
+	}
+],
+"results": [
+	{
+		"team": 1,
+		"name": "Murder Pumpkins",
+		"gametime": "10:45 am",
+		"members": ["Andy", "Kamran", "Andre", "Arnaud", "Sarah"],
+		"percentage": 0,
+		"timeremaining": "00:00",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 0,
+			"projectpassword": 0,
+			"projectunlock": 0,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 1,
+			"antidoteunlock": 0,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 0,
+			"membersinfected": 2,
+			"deathcount": 1,
+			"minutesleftcount": 0
+		},
+		"total": 29,
+		"percentage": 26
+	},
+	{
+		"team": 2,
+		"name": "Penguin Blood",
+		"gametime": "11:30 am",
+		"members": ["Atta", "Frank F", "Frank T", "Joswel", "Simon", "George B"],
+		"percentage": 0,
+		"timeremaining": "01:21",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 1,
+			"projectpassword": 1,
+			"projectunlock": 1,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 0,
+			"antidoteunlock": 30,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 4,
+			"membersinfected": 3,
+			"deathcount": 3,
+			"minutesleftcount": 1
+		},
+		"total": 82.5,
+		"percentage": 75
+	},
+	{
+		"team": 3,
+		"name": "The ReAnmiators I",
+		"gametime": "12:15 pm",
+		"members": ["Mike E", "Chris W", "Mohammed A", "Liz T", "Oleks P"],
+		"percentage": 0,
+		"timeremaining": "00:00",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 0,
+			"projectpassword": 0,
+			"projectunlock": 0,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 0,
+			"antidoteunlock": 0,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 0,
+			"membersinfected": 2,
+			"deathcount": 6,
+			"minutesleftcount": 0
+		},
+		"total": 19,
+		"percentage": 17
+	},
+	{
+		"team": 4,
+		"name": "Executioners",
+		"gametime": "1:45 pm",
+		"members": ["Nathan D", "Warren G", "Paul P", "Leann V", "Darryl T", "Brian K"],
+		"percentage": 0,
+		"timeremaining": "00:00",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 1,
+			"projectpassword": 1,
+			"projectunlock": 1,
+			"level5password": 0,
+			"level5keybox": 0,
+			"level5unlock": 0,
+			"level5doorstop": 1,
+			"antidoteunlock": 0,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 0,
+			"membersinfected": 1,
+			"deathcount": 1,
+			"minutesleftcount": 0
+		},
+		"total": 34,
+		"percentage": 31
+	},
+	{
+		"team": 5,
+		"name": "The ReAnimators II",
+		"gametime": "2:30 pm",
+		"members": ["Eric S", "Kelvin H", "Mary G", "Samraj S"],
+		"percentage": 0,
+		"timeremaining": "00:00",
+		"score": {
+			"protocol": 1,
+			"monitor": 0,
+			"keyboard": 0,
+			"projectname": 0,
+			"projectpassword": 0,
+			"projectunlock": 0,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 1,
+			"antidoteunlock": 0,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 0,
+			"membersinfected": 2,
+			"deathcount": 1,
+			"minutesleftcount": 0
+		},
+		"total": 19,
+		"percentage": 17
+	},
+	{
+		"team": 6,
+		"name": "The Terminators",
+		"gametime": "3:15 pm",
+		"members": ["Lou", "Michael G", "Amir", "Derek", "Darina", "Brookes"],
+		"percentage": 0,
+		"timeremaining": "07:20",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 1,
+			"projectpassword": 1,
+			"projectunlock": 1,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 0,
+			"antidoteunlock": 1,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 6,
+			"membersinfected": 0,
+			"deathcount": 1,
+			"minutesleftcount": 7
+		},
+		"total": 102.5,
+		"percentage": 93
+	},
+	{
+		"team": 7,
+		"name": "The Walking Jays",
+		"gametime": "4:00 pm",
+		"members": ["Gino C", "Mahrie B", "Irina F", "Mark A", "Dale K"],
+		"percentage": 0,
+		"timeremaining": "00:00",
+		"score": {
+			"protocol": 1,
+			"monitor": 1,
+			"keyboard": 1,
+			"projectname": 0,
+			"projectpassword": 0,
+			"projectunlock": 0,
+			"level5password": 1,
+			"level5keybox": 1,
+			"level5unlock": 1,
+			"level5doorstop": 0,
+			"antidoteunlock": 0,
+			"antidotedoctor": 0,
+			"exituninfectedcount": 0,
+			"membersinfected": 0,
+			"deathcount": 1,
+			"minutesleftcount": 0
+		},
+		"total": 29,
+		"percentage": 26
+	}
+]
+}

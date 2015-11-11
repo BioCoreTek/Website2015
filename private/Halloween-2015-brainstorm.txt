@@ -1,0 +1,131 @@
+Escape Game Halloween
+=====================
+
+Title: BioCoreTek - Patient Zero
+
+Location: Quiet Room & back of the bus
+Entrance: Hallway backing onto 11th floor caf
+Group Size: 3-6
+Time: 20 minutes
+
+Summary:
+Welcome, new employee, to BioCoreTek: Leaders in scientific research.    
+
+Getting Started:
+- each participant is given a lanyard at random with a role card
+	- Biologist
+		2- textbook with mapping of molecule to project name
+			- to find which password to use
+		- lab key
+			- to open Annie's office
+	- Security Agent
+		- flashlight
+			- so see code in Annie's office
+		1- physical key
+			- to case containing keyboard to use for computer
+	- IT Technician
+		3- list of 200 passwords mapped to project names
+			- to login to website for project
+				- to turn off security lasers
+		- wrench
+			- to open box containing key to restricted level 3
+
+	4 - get master key
+
+Props:
+- quiet room
+- Annie's office
+	- Jeremy
+	- number combo for med kit box
+- Vic's desk
+	- box blocked with lasers
+	- 
+
+Narrative:
+Setup
+-----
+- participants are doing an HR first day overview at BioCoreTek
+- start in closet hallway for handing out tools and explanation of one time use before sanitization is required for tools
+
+Intro
+------
+- participants ushered into quiet room for orientation by Annie/Jeff
+- participants given orientation booklet
+	- basic game rules
+	- protocols (for lockdown)
+- alarm sounds
+- Annie tells them to stay in the room until you hear further instructions
+- countdown clock starts
+
+Lockdown
+---------
+- 1 minute wait, participants look around, they can exit the room if they think about it
+- lockdown audio explanation, protocol ??? in effect
+	- will keep playing every minute for whole game
+
+Find Protocol
+---------------
+- protocol described in orientation booklet
+- participants check book to know they need to find med kits in location KA-452
+
+Find Location
+-------------
+- participants need to find map - located outside room on blocked path to chubb's office
+- map indicates that med kits are in Vic's cubicle
+
+Turn on Monitor
+--------------
+- monitor in quiet room is off, can be turned on
+- shows login page with picture of molecule
+- just a password
+
+Identify Molecule 
+------------------
+- Bio uses textbook to find molecule which has a project keyname
+
+Find Password for Project Keyname
+---------------------------------
+- IT looks on password sheet to get password for the project name
+
+Find Keyboard
+--------------
+- cardboard box in quiet room labeled 'IT Only'
+- find correct USB keyboard (instead of ps2 keyboard)
+
+Login to App
+------------
+- app has multiple sections with
+	- explantion of experiment
+		- name of lab
+		- picture and name of scientist
+		- explanation of experiment implying patient zero
+	- unlock supply box #??? with code ???
+
+Key to Back
+------------
+- participants need to find the key to the back
+- participants get into the back
+
+
+
+
+
+
+
+
+
+- Annie's office door behind tarp, but window has port hole of room
+	- Jeremy to jump out and scare as half-zombie
+	- 
+- cross laser - self destruct in 5 mins
+Master key - how to get it?
+
+
+
+security will get a gun
+(10:48:38 AM) Annie Perrier: clues with be said to be used "not more than once" allowing for zero usage
+(10:50:36 AM) Annie Perrier: protocol description will explains facts:
+- proof of antidote taken must be provided to exit the game
+- antidote prevents any infection
+- antidote cures any infection occurring within the last 24hrs
+- attempt to inoculate any facility personnel - we care about our employees
